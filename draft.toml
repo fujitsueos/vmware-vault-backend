@@ -1,7 +1,7 @@
 [environments]
   [environments.development]
     name = "vmware-vault-backend"
-    namespace = "marcin"
+    namespace = ""
     wait = true
     watch = false
     watch-delay = 2

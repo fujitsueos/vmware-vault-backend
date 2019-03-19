@@ -1,6 +1,6 @@
 # vmware-vault-backend
 
-It's custome plugin for acquiring vmware token using vault without exposing any credentials to other applications
+It is a custom plugin for acquiring vmware token using vault without exposing any credentials to other applications
 
 ## Installation and usage:
 
