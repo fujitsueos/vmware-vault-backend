@@ -29,7 +29,7 @@ import (
 
 const (
 	tokenDuration = 72 * time.Hour
-	Time          = "2006-01-02T15:04:05.000Z"
+	Time          = "2006-01-02T15:04:05.000000-07:00"
 	errMessage    = "Failed to acquire token"
 )
 
