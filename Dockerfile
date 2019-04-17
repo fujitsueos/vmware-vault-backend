@@ -13,7 +13,7 @@ FROM vault:1.0.2
 
 RUN apk update \
   && apk add --no-cache ca-certificates=20171114-r3 \
-  && apk add --no-cache wget=1.20.1-r0
+  && apk add --no-cache wget=1.20.3-r0
 
 RUN wget -q -O /etc/apk/keys/sgerrand.rsa.pub https://alpine-pkgs.sgerrand.com/sgerrand.rsa.pub
 
